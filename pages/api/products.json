@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Malandrito OG",
+    "price": "0.09",
+    "description": "Agarra tu perrito malandro rapido. BALATO PA TI",
+    "image_url": "https://i.imgur.com/z438ZMJ.jpeg",
+    "filename": "Perritu.zip",
+    "hash": "QmWNzd981HzwSNAZFchTVf3CKMZdgvd6rfVXXmjMvBnHzT",
+    "seller": "D8xjDA4e5YtHkFuYy185NFhFgfTei5t8NRbFvUguHe1z"
+  },
+  {
+    "id": 2,
+    "name": "Roberto",
+    "price": "0.09",
+    "image_url": "https://i.imgur.com/kFDZry4.jpg",
+    "description": "Keep it forever",
+    "filename": "peperritoconlentes.jpeg.zip",
+    "hash": "QmYFASQEf32oGTYw22V9wyd3HbAKHidN8b3ZLwr11Ah5Eq",
+    "seller": "D8xjDA4e5YtHkFuYy185NFhFgfTei5t8NRbFvUguHe1z"
+  }
+]
